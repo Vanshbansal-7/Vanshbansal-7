@@ -35,7 +35,7 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/vansh-bansal0210)
+- [LinkedIn](https://www.linkedin.com/in/vansh-bansal0210)
 - [GitHub](https://github.com/Vanshbansal-7)
 - ✉️ Email: `vanshbansal0210@gmail.com` *(replace with your actual)*
 
