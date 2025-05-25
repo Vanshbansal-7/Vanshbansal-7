@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Vanshbansal-7/Vanshbansal-7/blob/main/banner.png" alt="Banner" />
+</p>
+
+
 ### 👋 Hi there, I'm Vansh Bansal!
 
 🎓 B.Tech CSE student at Galgotias University  
