@@ -28,8 +28,7 @@
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
 | [KrishiMitra 🌱](https://github.com/Vanshbansal-7/KrishiMitra) | HTML, Firebase, ESP8266 | Smart agriculture dashboard with real-time soil moisture monitoring and pump control. |
-| Web Dashboard (Coming Soon) | HTML, Chart.js | Custom UI for IoT data visualization. |
-| DSA-Practice | C++ | Topic-wise DSA solutions from LeetCode & GFG. |
+| DSA-Practice | C++ , Java | Topic-wise DSA solutions from LeetCode & GFG. |
 
 ---
 
@@ -37,7 +36,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/vansh-bansal0210)
 - [GitHub](https://github.com/Vanshbansal-7)
-- ✉️ Email: `vanshbansal0210@gmail.com` *(replace with your actual)*
+- ✉️ Email: `vanshbansal0210@gmail.com`
 
 ---
 
