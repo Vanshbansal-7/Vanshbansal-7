@@ -35,9 +35,9 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/vanshbansal-7)
+- [LinkedIn](www.linkedin.com/in/vansh-bansal0210)
 - [GitHub](https://github.com/Vanshbansal-7)
-- ✉️ Email: `vanshbansal@example.com` *(replace with your actual)*
+- ✉️ Email: `vanshbansal0210@gmail.com` *(replace with your actual)*
 
 ---
 
@@ -45,17 +45,4 @@
 I’m a football lover and a regional silver medalist 🏅⚽  
 
 
-<!--
-**Vanshbansal-7/Vanshbansal-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
